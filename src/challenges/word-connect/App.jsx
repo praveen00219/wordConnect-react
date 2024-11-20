@@ -1,6 +1,6 @@
 import { getConnectedGroups } from "./utils/helpers";
 import { useCallback, useEffect, useState } from "react";
-import Game from "./components/game";
+import Game from "./components/Game";
 import { Leva, useControls } from "leva";
 import "./styles.css";
 
