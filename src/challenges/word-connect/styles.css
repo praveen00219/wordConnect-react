@@ -1,0 +1,16 @@
+.center {
+  text-align: center;
+}
+
+.reset {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.reset:hover {
+  background-color: #0056b3;
+}
