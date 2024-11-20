@@ -57,7 +57,7 @@ The Word Connect project is a fun and interactive word puzzle game where users c
 
 ## Live Demo
 
-Click here to see the live demo :[here]()
+Click here to see the live demo :[here](https://praveen-word-connect-reactapp.netlify.app/)
 
 ## Installation
 
